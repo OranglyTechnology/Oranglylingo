@@ -7,7 +7,6 @@
 
 </div>
 
-<br />
 
 ## About
 ---
@@ -16,7 +15,6 @@
   The project is a programming teaching app based on Duolingo. The platform offers practical exercises, quizzes, and a level-based learning model. The gamified approach motivates users to advance and make progress.
 </p>
 
-<br />
 
 ## How to run
 ---
@@ -27,7 +25,6 @@
 git clone
 ```
 
-<br />
 
 ### 2. Install dependencies
 
@@ -39,7 +36,6 @@ yarn
 npm install
 ```
 
-<br />
 
 ### 3. Run the project
 
@@ -51,7 +47,6 @@ npx expo run:android
 npx expo run:ios
 ```
 
-<br />
 
 ## ⚡ Technologies
 ---
@@ -61,14 +56,12 @@ npx expo run:ios
 - [TypeScript](https://www.typescriptlang.org/)
 - [React Navigation](https://reactnavigation.org/)
 
-<br />
 
 ## 📝 License
 ---
 
 This project is under the MIT license. See the [LICENSE](LICENSE) for more information.
 
-<br />
 
 ## ⭐️ Show your support
 ---
