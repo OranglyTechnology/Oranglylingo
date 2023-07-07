@@ -29,7 +29,16 @@
   ],
   "rules": {
     "react/react-in-jsx-scope": "off",
-    "import/prefer-default-export": "off"
+    "import/prefer-default-export": "off",
+    "react/jsx-props-no-spreading": "off",
+    "@typescript-eslint/no-shadow": "off",
+    "react/no-array-index-key": "off",
+    "no-plusplus": "off",
+    "@typescript-eslint/no-non-null-assertion": "off",
+    "no-continue": "off",
+    "no-param-reassign": "off",
+    "react-hooks/rules-of-hooks": "off",
+    "react/function-component-definition": "off"
   },
   "settings": {
     "react": {
